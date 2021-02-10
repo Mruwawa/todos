@@ -1,0 +1,30 @@
+.app
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+h1
+{
+    text-align: center;
+}
+
+app-todos{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header
+{
+    background-color: rgb(93, 233, 116);
+    width: 100%;
+}
+
+header h1
+{
+    font-size: 3rem;
+}
